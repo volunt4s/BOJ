@@ -10,7 +10,7 @@ int main(){
 	
 	int input; // for input value
 	
-	int solutionSet[100] = {0,}, minValue, i=0, j; // identifier i, j
+	int solutionSet[1000] = {0,}, minValue, i=0, j; // identifier i, j
 
 	scanf("%d", &input);
 
